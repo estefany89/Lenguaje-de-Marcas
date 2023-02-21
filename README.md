@@ -52,7 +52,7 @@ Lorem ipsum dolor `h1 { color: blue;` sit amet, consectetur adipisicing elit. Al
 
 
 ## 1.5. Listas tareas
-- [ ] tarea 1
+- [x] tarea 1
 - [ ] tarea 2
 
 ## 1.6. Tablas
