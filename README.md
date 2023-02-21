@@ -56,7 +56,7 @@ Lorem ipsum dolor `h1 { color: blue;` sit amet, consectetur adipisicing elit. Al
 - [ ] tarea 2
 
 ## 1.6. Tablas
-| Syntax | Description|
-|--------|----------- |
-|--------|------------|
-|        |            |
+| Syntax | Description|Tareas|
+|--------|----------- |------| 
+| Header |    Title   |Tarea1|
+|  Text  |desde file  |tarea2|
